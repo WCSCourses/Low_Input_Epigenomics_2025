@@ -2,52 +2,74 @@
 
 # Low Input Epigenomics
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+### 9–16 May 2025, Wellcome Genome Campus, UK
 
-Learn the latest approaches to study chromatin biology at the gene and genome-wide levels in rare cell populations.
+[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/low-input-epigenomics-20250509/) <br /> 
+[Course Time Table 2025](coming soon) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Low_Input_Epigenomics_2025/blob/main/LowInputEpigenomics_InformaticsGuide.md)
 
-### Course Summary 
-Our understanding of eukaryotic genomes has benefitted tremendously from whole genome sequencing projects. However, we are only beginning to systematically understand how the interplay of DNA, proteins and its biochemical modifications (i.e. chromatin) can influence global processes which control gene expression, mRNA splicing and DNA replication or repair in normal development and disease.
+### Summary
 
-This hands-on practical course provides training in experimental and computational approaches that can be used to mechanically dissect important aspects of chromatin biology at the gene and genome-wide levels in rare cell populations.
+Our understanding of eukaryotic genomes has benefitted tremendously from whole genome sequencing projects. However, we are only beginning to systematically understand how the interplay of DNA, proteins and, biochemical modifications (i.e. chromatin) can influence global processes which control gene expression, mRNA splicing, and DNA replication or repair in normal development and disease states.
 
-Participants will receive intensive wet laboratory and computational training using various state-of-the-art methods that require fewer than 1000 cells input to bridge the gap between the standard bulk epigenomic approaches, often requiring inputs of millions of cells, and emerging single-cell techniques. This course will cover the wet lab and computational aspects of:
+This hands-on practical course provides training in some of the experimental and computational approaches that may be used to mechanically dissect important aspects of chromatin biology at the gene and genome-wide levels in rare cell populations.
 
-- Cleavage under targets and release using nucleases (CUT&RUN) to profile histone marks and transcription factor binding.
+**What will this course cover?**
+
+Attendees will receive intensive wet laboratory and computational training using various state-of-the-art methods requiring fewer than a thousand cells input. This bridges the gap between the standard bulk epigenomic approaches, often requiring inputs of millions of cells, and emerging but costly single-cell techniques. The content will include design, laboratory, and analytical aspects of: 
+
+- Cleavage under targets and release using nucleases (CUT&RUN) and Cleavage under targets and tagmentation (CUT&Tag) to profile histone marks and transcription factor binding.
 - Low-C to map the 3D structure of the genome and interactions between regulatory elements and gene promoters.
 - Omni-ATAC to assess chromatin accessibility.
 - Computational methods using various pipelines to analyse low-input genomic data and visualisation.
 
-### Target audience
+**Who should attend this course?**
 
-Senior PhD students, early career postdoctoral scientists, or junior faculty members who wish to interrogate epigenomic features on a low input scale.
+This course is open to senior PhD students, early career postdoctoral scientists, or junior faculty members who wish to interrogate epigenomic features on a low input scale from anywhere in the world.
+
+### Learning outcomes
+
+**After completing this course, you will be able to:**
+
+- Perform CUT&RUN, CUT&Tag, Omni-ATAC, and Low-C techniques, including experimental design, endpoint analysis and validation (qPCR, TapeStation)
+- Apply genome sequencing methods for low input genomic analysis
+- Perform end-to-end analysis of low input genome sequence data from raw sequence to identifying loci of biological importance
+- Explain how low input genomic methods can be applied in development and disease research
 
 ### Programme
-This 7 day course will cover the following techniques:
 
-- (CUT&RUN) to profile histone marks and transcription factor binding.
+The course will cover the following techniques:
+
+- CUT&RUN and CUT&Tag to profile histone marks and transcription factor binding
 - Low-C to map the 3D structure of the genome
-- Omni-ATAC to assess chromatin accessibility.
+- Omni-ATAC to assess chromatin accessibility
 - End-point analysis using qPCR and Tape station techniques
-- Computational analysis of low input gene level and genome-wide data to determine the interplay of DNA, proteins and chromatin modifications in - biological processes. 
-- These sessions will be supplemented with pre-course training on Linux and UNIX basics, informal tutorials, and guest lectures from the instructors and distinguished invited speakers.
-- Participants will also have the opportunity to discuss their research interests and present aspects of their work relevant to the course.
+- Computational analysis of low input gene level and genome-wide data to determine the interplay of DNA, proteins and - chromatin modifications in biological processes
 
-### Learning Outcomes:
+These sessions will be supplemented with pre-course training on Linux and UNIX basics, hands-on tutorials and demonstrations, and guest seminars from global experts. Attendees will also have the opportunity to discuss their research interests and present aspects of their own work relevant to the course during a poster session.
 
-After attending the course, participants can expect to be able to:
+**Course Organisers**      
 
-- Perform CUT&RUN, Omni-ATAC, and Low-C techniques, including experimental design, endpoint analysis and validation (qPCR, TapeStation).
-- Apply genome sequencing methods for low input genomic analysis
-- Perform end-to-end analysis of low input genome sequence data from raw sequence to identifying loci of biological importance.
-- Explore how low input genomic methods can be applied in development and disease research
+- [Christopher (Kip) Arlidge](), Canadore College, Canada
+- [Noelia Díaz](), Institute of Marine Sciences (ICM-CSIC), Spainnoelia
+- [Kinjal Desai](), The Hospital for Sick Children Research Institute, Canada
 
-**Course Runs**      
+**Course Instructors**      
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 11 to 17 May 2024 | [Low Input Epigenomics](https://github.com/WCSCourses/Low_Input_Epigenomics) | Wellcome Genome Campus, Hinxton | [![DOI](https://zenodo.org/badge/693668431.svg)](https://doi.org/10.5281/zenodo.14038060) |
+- [Fabian Groll](), The Institute of Cancer Research, UK
+- [Noura Maziak](), MRC-LMS London, UK
+- [Lisanne Mout](), Princess Margaret Cancer Centre, University Health Network, Canada
+
+**Wellcome Connecting Science Team**
+
+- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
+- [Nicola Stevens](https://www.wellcomeconnectingscience.org/person/stevens-nicola/), Events Organiser
+- [Monica Abrudan](https://uk.linkedin.com/in/monica-abrudan-09bb34a), Bioinformatics Education Developer
+- [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
+- [Aaron Dean](https://uk.linkedin.com/in/aaron-dean-5b5a21163), Laboratory Technical Officer
+- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
 
 ******
 
